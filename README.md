@@ -1,4 +1,4 @@
-# Frogger-2D-Clone
+# Frogger-2D-Clone-Unity
 A clone of the classic 1981 arcade game Frogger developed by Konami (Atari 2600 Edition) built using Unity. <br>
 References:
 - Code and graphical assets from [The Weekly Coder's Frogger Clone tutorial series](https://www.youtube.com/playlist?list=PLiRrp7UEG13ZpFzUGeZ-4762FBar-ZfIA) on YouTube
