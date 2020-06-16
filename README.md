@@ -22,6 +22,10 @@ To start the game, press Enter. <br>
 Players will gain control of the frog once the start game sound ends.
 
 ![Demo](https://github.com/Gamers-Blended/Frogger-2D-Clone/blob/master/Files%20for%20ReadMe/GameDemo.gif)
-  
+
+### Controls
+Press Enter to start startup sound. <b>
+Use the arrow keys to move the frog.
+
 ## Bugs
 Upon winning a level and restarting it using Enter, the home bays are still marked as occupied. Hence the frogs aren't able to stay in the home bays.
