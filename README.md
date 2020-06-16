@@ -24,7 +24,7 @@ Players will gain control of the frog once the start game sound ends.
 ![Demo](https://github.com/Gamers-Blended/Frogger-2D-Clone/blob/master/Files%20for%20ReadMe/GameDemo.gif)
 
 ### Controls
-Press Enter to start startup sound. <b>
+Press Enter to start startup sound. <br>
 Use the arrow keys to move the frog.
 
 ## Bugs
